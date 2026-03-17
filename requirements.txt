@@ -1,0 +1,4 @@
+langgraph>=0.2.30
+langchain-core>=0.2.36
+pydantic>=2.8.2
+pytest>=8.3.2

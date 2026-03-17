@@ -1,0 +1,5 @@
+{
+  "protocol_name": "PaymentRequestProtocol",
+  "identifiers": ["request_id", "user_id", "amount_value", "currency_code"],
+  "description": "该协议用于支付请求，定义字段包括请求ID、用户ID、金额与币种。协议约束要求金额为正数并限制币种集合。错误处理覆盖字段缺失和金额非法场景。"
+}
